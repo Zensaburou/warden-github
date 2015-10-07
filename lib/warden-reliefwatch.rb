@@ -8,6 +8,8 @@ module Warden
   end
 end
 
+require 'addressable/uri'
+
 require 'warden-reliefwatch/user'
 require 'warden-reliefwatch/proxy'
 require 'warden-reliefwatch/version'
